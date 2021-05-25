@@ -1,0 +1,10 @@
+.carbtn{
+    color: white;
+    background-color: #b2ee57;
+    border: 1px solid #c5f57d;
+    border-radius: 10px;
+}
+.carbtn:hover{
+    color: white;
+    background-color: transparent;
+}

@@ -1,0 +1,7 @@
+.offerbg{
+    background-image: url('../../../images/offer.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+}

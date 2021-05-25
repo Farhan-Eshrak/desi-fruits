@@ -1,0 +1,12 @@
+.sbtn{
+    color: white;
+    font-size: 10px;
+    background-color: #7fad39;
+    padding: 10px;
+    border: 1px solid #7fad39;
+    border-radius: 10px;
+}
+.sbtn:hover{
+    color: #7fad39;
+    background-color: transparent;
+}
